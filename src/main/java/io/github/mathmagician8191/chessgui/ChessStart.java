@@ -160,7 +160,7 @@ public class ChessStart {
     
     friendlyFire = ChessStart.checkBox("Friendly Fire");
     
-    pane.add(new JLabel("Source code and copyright: https://github.com/Mathmagician8191/Chess-GUI"));
+    pane.add(new JLabel("Source code and copyright: https://github.com/Mathmagician8191/Totally-Normal-Chess"));
     
     //add cards to CardLayout
     cards.add(pane);
